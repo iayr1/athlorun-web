@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://iayr1.github.io/athlorun-web/sitemap.xml
